@@ -5,6 +5,7 @@ geemap[extra]
 geopandas
 jupyter-server-proxy
 keplergl
+fiona
 leafmap
 localtileserver
 nbserverproxy

@@ -10,6 +10,7 @@ localtileserver
 nbserverproxy
 owslib
 palettable
+fiona
 plotly
 streamlit
 streamlit-bokeh-events

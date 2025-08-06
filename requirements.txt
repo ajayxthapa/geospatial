@@ -17,6 +17,8 @@ streamlit-bokeh-events
 streamlit-folium
 streamlit-keplergl
 tropycal
+census
+cenpy
 # git+https://github.com/giswqs/leafmap
 # git+https://github.com/giswqs/geemap
 

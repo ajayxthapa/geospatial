@@ -577,7 +577,7 @@ def main():
                 except Exception as e:
                     st.error(f"❌ Error: {str(e)}")
             else:
-                st.info("👆 Upload a GeoJSON file above")
+                st.info("Upload a GeoJSON file above")
         else:
             # This handles all pre-selected Florida regions (individual counties or all).
             geometry = florida_rois.get(selected_region)
